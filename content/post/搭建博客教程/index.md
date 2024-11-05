@@ -14,7 +14,7 @@ categories:
 
 # 展示
 
-![image-20241105185846043](D:\blog\lublog\content\post\test\image-20241105185846043.png)
+![image-20241105185846043](image-20241105185846043.png)
 
 # 一、前期准备
 
@@ -36,7 +36,7 @@ categories:
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112901989862899&bvid=BV1bovfeaEtQ&cid=500001637623206&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-![image-20241105183948582](D:\blog\lublog\content\post\test\image-20241105183948582.png)
+![image-20241105183948582](image-20241105183948582.png)
 
 # 二、hugo安装
 
@@ -48,7 +48,7 @@ categories:
 
 [Releases · gohugoio/hugo](https://github.com/gohugoio/hugo/releases)
 
-![image-20241105185156317](D:\blog\lublog\content\post\test\image-20241105185156317.png)
+![image-20241105185156317](image-20241105185156317.png)
 
 记得选择windows amd64 
 
@@ -70,7 +70,7 @@ hugo new site 文件夹名
 hugo new site lublog
 ```
 
-![image-20241105185523310](D:\blog\lublog\content\post\test\image-20241105185523310.png)
+![image-20241105185523310](image-20241105185523310.png)
 
 这样就搭好初始框架了，接下来吧hugo.exe复制到**blog文件夹**内，不复制会导致后面命令执行失败喵。上面介绍就是官方给的教程
 
@@ -98,7 +98,7 @@ hugo new site lublog
 
 把他放在themes文件夹内，并且改名
 
-![image-20241105190303677](D:\blog\lublog\content\post\test\image-20241105190303677.png)
+![image-20241105190303677](image-20241105190303677.png)
 
 改名后复制.\themes\hugo-theme-stack\exampleSite中的hugo.yaml到主文件夹目录（也就是site名称文件夹下，跟跟theme，hugo.exe同级）
 
@@ -106,7 +106,7 @@ hugo new site lublog
 
 首先把主题archetypes下面的default.md复制到主文件archetypes目录下，我这里把主文件改了名防止换主题时找不到。
 
-![image-20241105233432313](D:\blog\lublog\content\post\test\image-20241105233432313.png)
+![image-20241105233432313](image-20241105233432313.png)
 
 当然，如果你想要原版的也完全可以。
 
@@ -172,13 +172,13 @@ git push -u origin master
 
 注：这个编译命令可以后期再改的，不需要删除项目后改。
 
-![image-20241105192528108](D:\blog\lublog\content\post\test\image-20241105192528108.png)
+![image-20241105192528108](image-20241105192528108.png)
 
 部署成功后添加自定义域名(可省略，因为腾讯也会给个域名.edgeone.app)
 
 点击添加自定义域名，然后在cloud flare上使用腾讯给的cname（**建议使用严格的ssl**）
 
-![image-20241105192856294](D:\blog\lublog\content\post\test\image-20241105192856294.png)
+![image-20241105192856294](image-20241105192856294.png)
 
 最后在腾讯这边点击验证，等待腾讯给你创建证书（大概5~10分钟）。
 
