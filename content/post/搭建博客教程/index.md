@@ -5,11 +5,17 @@ title = 'hugo搭建博客教程'
 
 image: lu.png
 
-categories:
-   - Hugo
-   - 博客搭建与优化
+categories = [
+
+"博客搭建与优化"
+
+]
 
 +++
+
+| title            | description | date       | slug | image  | categories     |
+| ---------------- | ----------- | ---------- | ---- | ------ | -------------- |
+| hugo搭建博客教程 |             | 2024-11-05 |      | lu.png | 博客搭建与优化 |
 
 # 展示
 
