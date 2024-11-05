@@ -1,29 +1,14 @@
 ---
 title: 友链
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
 menu:
-    main: 
-        weight: -50
-        params:
-            icon: link
+  main:
+    weight: -50
+    params:
+      icon: link
+      
+comments: false  # 关闭评论
 
-comments: false
----
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
+links:          # 将所有友链放在一个links数组中
   - title: GitHub
     description: GitHub is the world's largest software development platform.
     website: https://github.com
@@ -32,6 +17,8 @@ links:
     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+  - title: LINUX DO
+    description: 新的理想型社区
+    website: https://linux.do/?source=www_abc_com
+    image: https://image.luweb.us.kg/file/1730822037984_image.png
+---
