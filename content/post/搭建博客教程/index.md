@@ -3,6 +3,12 @@ date = '2024-11-03T21:27:00+08:00'
 draft = true
 title = 'hugo搭建博客教程'
 
+image: lu.png
+
+categories:
+   - Hugo
+   - 博客搭建与优化
+
 +++
 
 # 展示
