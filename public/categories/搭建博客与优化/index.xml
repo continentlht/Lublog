@@ -14,14 +14,18 @@
         
         <guid>http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</guid>
         <description>&lt;img src="http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/lu.png" alt="Featured image of post 搭建博客教程" /&gt;&lt;h1 id=&#34;展示&#34;&gt;展示
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;D:%5cblog%5clublog%5ccontent%5cpost%5ctest%5cimage-20241105185846043.png&#34;
-	
-	
-	
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185846043.png&#34;
+	width=&#34;2149&#34;
+	height=&#34;1360&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185846043_hu13921370948603606878.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185846043_hu17294233753108103471.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241105185846043&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;158&#34;
+		data-flex-basis=&#34;379px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;一前期准备&#34;&gt;一、前期准备
@@ -42,14 +46,18 @@
     &gt;腾讯云pages介绍&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;并且推荐一个up主的安装视频，不想看文字的可以按照他的来，我基本就是按照他的来&lt;/p&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?isOutside=true&amp;aid=112901989862899&amp;bvid=BV1bovfeaEtQ&amp;cid=500001637623206&amp;p=1&amp;autoplay=0&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5cblog%5clublog%5ccontent%5cpost%5ctest%5cimage-20241105183948582.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105183948582.png&#34;
+	width=&#34;1199&#34;
+	height=&#34;981&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105183948582_hu5280687493020130326.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105183948582_hu4470855361872953830.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241105183948582&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;二hugo安装&#34;&gt;二、hugo安装
@@ -60,14 +68,18 @@
 &lt;p&gt;先到GitHub上下载releases&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Releases · gohugoio/hugo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5cblog%5clublog%5ccontent%5cpost%5ctest%5cimage-20241105185156317.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185156317.png&#34;
+	width=&#34;1577&#34;
+	height=&#34;1191&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185156317_hu12822452435332666376.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185156317_hu9324700207548428195.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241105185156317&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;132&#34;
+		data-flex-basis=&#34;317px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;记得选择windows amd64&lt;/p&gt;
@@ -92,14 +104,18 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new site lublog
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;D:%5cblog%5clublog%5ccontent%5cpost%5ctest%5cimage-20241105185523310.png&#34;
-	
-	
-	
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185523310.png&#34;
+	width=&#34;1136&#34;
+	height=&#34;407&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185523310_hu2893432760147591926.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105185523310_hu7743596223545503604.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241105185523310&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;279&#34;
+		data-flex-basis=&#34;669px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;这样就搭好初始框架了，接下来吧hugo.exe复制到&lt;strong&gt;blog文件夹&lt;/strong&gt;内，不复制会导致后面命令执行失败喵。上面介绍就是官方给的教程&lt;/p&gt;
@@ -128,27 +144,35 @@
 &lt;p&gt;（主要是b站的那个up主对这个主题有所优化，跟着配置很方便呢。）&lt;/p&gt;
 &lt;p&gt;选择download下载，进入release下载source code&lt;/p&gt;
 &lt;p&gt;把他放在themes文件夹内，并且改名&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5cblog%5clublog%5ccontent%5cpost%5ctest%5cimage-20241105190303677.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105190303677.png&#34;
+	width=&#34;850&#34;
+	height=&#34;527&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105190303677_hu11805749150123172445.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105190303677_hu16849717729767984274.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241105190303677&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;161&#34;
+		data-flex-basis=&#34;387px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;改名后复制.\themes\hugo-theme-stack\exampleSite中的hugo.yaml到主文件夹目录（也就是site名称文件夹下，跟跟theme，hugo.exe同级）&lt;/p&gt;
 &lt;h2 id=&#34;3-创建文章&#34;&gt;3. 创建文章
 &lt;/h2&gt;&lt;p&gt;首先把主题archetypes下面的default.md复制到主文件archetypes目录下，我这里把主文件改了名防止换主题时找不到。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5cblog%5clublog%5ccontent%5cpost%5ctest%5cimage-20241105233432313.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105233432313.png&#34;
+	width=&#34;917&#34;
+	height=&#34;502&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105233432313_hu12883764968360251723.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105233432313_hu1489787765037654286.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241105233432313&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;182&#34;
+		data-flex-basis=&#34;438px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;当然，如果你想要原版的也完全可以。&lt;/p&gt;
@@ -162,6 +186,21 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;我使用的是 &lt;code&gt;hugo new content post\搭建博客教程\index.md&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;这就是我为啥写这篇文章的原因了（笑&lt;/p&gt;
+&lt;p&gt;注：当写文章的时候，记得把图片改为相对路径：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241106111626592.png&#34;
+	width=&#34;1061&#34;
+	height=&#34;698&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241106111626592_hu15212959807638935655.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241106111626592_hu6992539604117260638.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241106111626592&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;152&#34;
+		data-flex-basis=&#34;364px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;4-测试运行&#34;&gt;4. 测试运行
 &lt;/h2&gt;&lt;p&gt;hugo server -D&lt;/p&gt;
 &lt;p&gt;然后访问 http://localhost:1313/&lt;/p&gt;
@@ -221,30 +260,149 @@
 &lt;p&gt;登录腾讯云控制台，然后选择开始pages，选择创建pages，接着需要绑定你的GitHub账号，然后选择&lt;strong&gt;创建项目&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;并在编译命令中使用HUGO_ENV=production hugo（这个不添加也能创建成功，但我发现部署后点击自己的域名无法访问博客文章，出现的都是下载，添加后消失）&lt;/p&gt;
 &lt;p&gt;注：这个编译命令可以后期再改的，不需要删除项目后改。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5cblog%5clublog%5ccontent%5cpost%5ctest%5cimage-20241105192528108.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105192528108.png&#34;
+	width=&#34;1761&#34;
+	height=&#34;1138&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105192528108_hu14833900062395983953.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105192528108_hu15307647586873680243.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241105192528108&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;371px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;部署成功后添加自定义域名(可省略，因为腾讯也会给个域名.edgeone.app)&lt;/p&gt;
 &lt;p&gt;点击添加自定义域名，然后在cloud flare上使用腾讯给的cname（&lt;strong&gt;建议使用严格的ssl&lt;/strong&gt;）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;D:%5cblog%5clublog%5ccontent%5cpost%5ctest%5cimage-20241105192856294.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105192856294.png&#34;
+	width=&#34;1406&#34;
+	height=&#34;451&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105192856294_hu4466500178012107827.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105192856294_hu2040100417675858204.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241105192856294&#34;
 	
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;311&#34;
+		data-flex-basis=&#34;748px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;最后在腾讯这边点击验证，等待腾讯给你创建证书（大概5~10分钟）。&lt;/p&gt;
 &lt;p&gt;创建完毕后就可以访问了。&lt;/p&gt;
+&lt;p&gt;注：更新博客需要上传到GitHub然后重新部署&lt;/p&gt;
+&lt;h1 id=&#34;五友链添加&#34;&gt;五、友链添加
+&lt;/h1&gt;&lt;p&gt;打开\content\page\links&lt;/p&gt;
+&lt;p&gt;里面显示&lt;/p&gt;
+&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+&lt;p&gt;直接添加，如果想删除github就把title前面的删除掉：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: 友链
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;menu:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  main:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    weight: -50
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    params:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      icon: link
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;comments: false  # 关闭评论
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;links:          # 将所有友链放在一个links数组中
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - title: GitHub
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    description: GitHub is the world&amp;#39;s largest software development platform.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    website: https://github.com
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - title: TypeScript
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    website: https://www.typescriptlang.org
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    image: ts-logo-128.jpg
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - title: LINUX DO
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    description: 新的理想型社区
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    website: https://linux.do/?source=www_abc_com
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    image: https://image.luweb.us.kg/file/1730822037984_image.png
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;这样就添加成功了，不过linuxdo的图片我莫名其妙下载不了，我就干脆上传到我的图床上，然后再放进去，可以成功加载&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105235500146.png&#34;
+	width=&#34;1115&#34;
+	height=&#34;818&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105235500146_hu14274506428203034552.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241105235500146_hu6016916650130317858.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241105235500146&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;136&#34;
+		data-flex-basis=&#34;327px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241106000413684.png&#34;
+	width=&#34;1864&#34;
+	height=&#34;912&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241106000413684_hu132446923832587869.png 480w, http://localhost:1313/p/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/image-20241106000413684_hu15775660810242840362.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241106000413684&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;204&#34;
+		data-flex-basis=&#34;490px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         

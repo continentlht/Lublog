@@ -20,9 +20,9 @@ categories:
 
 需要：
 
-1. GitHub账号一个
+（1）GitHub账号一个
 
-2. 腾讯云账号一个（或者cloudflare）
+（2）腾讯云账号一个（或者cloudflare）
 
 ​    我这里博客是使用的腾讯云国际版的静态网页托管，其实除此之外，还可以使用GitHub的action和cloudflare的pages等等，都是免费的。（虽然不太相信腾讯的说＞︿＜，但是不薅白不薅(～￣▽￣)～）
 
@@ -56,7 +56,7 @@ categories:
 
 # 三、博客搭建
 
-## 1. 创建
+**1. 创建**
 
 首先使用命令
 
@@ -86,7 +86,7 @@ hugo new site lublog
 >
 > See documentation at https://gohugo.io/.
 
-## 2. 主题
+**2. 主题**
 
 去官网下个漂亮的主题吧！我选择的是[Stack | Hugo Themes](https://themes.gohugo.io/themes/hugo-theme-stack/)，官方demo[Hugo Theme Stack Starter](https://demo.stack.jimmycai.com/)
 
@@ -102,7 +102,7 @@ hugo new site lublog
 
 改名后复制.\themes\hugo-theme-stack\exampleSite中的hugo.yaml到主文件夹目录（也就是site名称文件夹下，跟跟theme，hugo.exe同级）
 
-## 3. 创建文章
+**3. 创建文章**
 
 首先把主题archetypes下面的default.md复制到主文件archetypes目录下，我这里把主文件改了名防止换主题时找不到。
 
@@ -122,7 +122,7 @@ hugo new content <SECTIONNAME>\<FILENAME>.<FORMAT>
 
 ![image-20241106111626592](image-20241106111626592.png)
 
-## 4. 测试运行
+**4. 测试运行**
 
 hugo server -D
 
@@ -132,7 +132,7 @@ hugo server -D
 
 # 四、腾讯托管
 
-## 1. 上传GitHub
+**1. 上传GitHub**
 
 我是使用GitHub Desktop直接上传了，你也可以使用git命令上传至仓库
 
@@ -166,7 +166,7 @@ git push -u origin master
 
 参考文章[使用git命令行将本地仓库代码上传-CSDN博客](https://blog.csdn.net/weixin_43896643/article/details/113803354)
 
-## 2. 腾讯云添加
+**2. 腾讯云添加**
 
 [腾讯云 - 控制台](https://console.tencentcloud.com/edgeone/pages)
 
