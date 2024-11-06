@@ -118,6 +118,10 @@ hugo new content <SECTIONNAME>\<FILENAME>.<FORMAT>
 
 这就是我为啥写这篇文章的原因了（笑
 
+注：当写文章的时候，记得把图片改为相对路径：
+
+![image-20241106111626592](image-20241106111626592.png)
+
 ## 4. 测试运行
 
 hugo server -D
@@ -239,6 +243,6 @@ links:          # 将所有友链放在一个links数组中
 
 这样就添加成功了，不过linuxdo的图片我莫名其妙下载不了，我就干脆上传到我的图床上，然后再放进去，可以成功加载
 
-![image-20241105235500146](D:\blog\lublog\content\post\搭建博客教程\image-20241105235500146.png)
+![image-20241105235500146](image-20241105235500146.png)
 
-![image-20241106000413684](D:\blog\lublog\content\post\搭建博客教程\image-20241106000413684.png)
+![image-20241106000413684](image-20241106000413684.png)
