@@ -170,9 +170,9 @@ git push -u origin master
 
 [腾讯云 - 控制台](https://console.tencentcloud.com/edgeone/pages)
 
-登录腾讯云控制台，然后选择开始pages，选择创建pages，接着需要绑定你的GitHub账号，然后选择**创建项目**
+   登录腾讯云控制台，然后选择开始pages，选择创建pages，接着需要绑定你的GitHub账号，然后选择**创建项目**
 
-并在编译命令中使用HUGO_ENV=production hugo（这个不添加也能创建成功，但我发现部署后点击自己的域名无法访问博客文章，出现的都是下载，添加后消失）
+   并在编译命令中使用HUGO_ENV=production hugo（这个不添加也能创建成功，但我发现部署后点击自己的域名无法访问博客文章，出现的都是下载，添加后消失）
 
 注：这个编译命令可以后期再改的，不需要删除项目后改。
 
